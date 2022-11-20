@@ -536,6 +536,8 @@ margin-left:100px;
 .blog1:hover {
   box-shadow: 0px 0px 20px black;
   transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
 .blog2 {
   width:400px;
@@ -550,6 +552,8 @@ margin-left:100px;
 .blog2:hover {
   box-shadow: 0px 0px 20px black;
     transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
 .blog3 {
   width:400px;
@@ -564,6 +568,8 @@ margin-left:100px;
 .blog3:hover {
   box-shadow: 0px 0px 20px black;
     transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
 .blogrow1 {
   display: flex;
@@ -588,6 +594,8 @@ margin-left:100px;
 .blog4:hover {
   box-shadow: 0px 0px 20px black;
     transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
 .blog5 {
   width:400px;
@@ -602,6 +610,8 @@ margin-left:100px;
 .blog5:hover {
   box-shadow: 0px 0px 20px black;
     transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
 .blog6 {
   width:400px;
@@ -616,4 +626,6 @@ margin-left:100px;
 .blog6:hover {
   box-shadow: 0px 0px 20px black;
     transform: scale(1);
+    background-color:orange ;
+    color:white;
 }
